@@ -1,0 +1,15 @@
+body
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: whitesmoke;
+}
+h1
+{
+    text-align:center;
+}
+.tagline
+{
+    
+    margin-left: 40px;
+}
